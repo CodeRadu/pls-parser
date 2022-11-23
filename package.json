@@ -1,0 +1,25 @@
+{
+  "name": "pls-parser",
+  "version": "0.0.1",
+  "description": "PLS file parser",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeRadu/pls-parser.git"
+  },
+  "author": "Radu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CodeRadu/pls-parser/issues"
+  },
+  "homepage": "https://github.com/CodeRadu/pls-parser#readme",
+  "devDependencies": {
+    "@types/node": "^18.11.9",
+    "typescript": "^4.9.3"
+  }
+}
